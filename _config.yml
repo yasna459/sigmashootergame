@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "portfolio_2025" 
-baseurl: "/portfolio_2025"
+title: Shoot the Rachit 
+description: "Class of 2028"
+owner_name: Yasna Ahmadi
+github_username: yasna459
+github_repo: "sigmashootergame" 
+baseurl: "/sigmashootergame"
 future: true
 remote_theme: jekyll/minima
 minima:
